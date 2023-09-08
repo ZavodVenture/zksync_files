@@ -24,7 +24,7 @@ const zkSyncTestnet =
 
 const config: HardhatUserConfig = {
   zksolc: {
-    version: "1.13.3",
+    version: "1.3.13",
     compilerSource: "binary",
     settings: {},
   },
